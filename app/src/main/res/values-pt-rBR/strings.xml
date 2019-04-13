@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bloco de Notas</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title">Título</string>
+    <string name="description">Descrição</string>
+</resources>
